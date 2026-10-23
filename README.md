@@ -1,101 +1,74 @@
-# 👋 Hi, I'm Prajwal Badiger
+🚀 Prajwal Badiger — AI/ML Engineer Portfolio
 
-### Aspiring AI/ML Engineer | Python Developer | Machine Learning Enthusiast
+Welcome to my personal portfolio! This repository contains my portfolio website, showcasing my skills, projects, and journey in Artificial Intelligence, Machine Learning, and software development.
 
-Welcome to my personal portfolio repository! 🚀
+🌐 Live Portfolio: "View My Portfolio" (https://portfolio-sooty-kappa-56.vercel.app)
 
-I'm a B.Tech Computer Science and Engineering (AI/ML) student at Garden City University, passionate about Artificial Intelligence, Machine Learning, and building practical software applications.
+👨‍💻 About Me
 
-I enjoy learning new technologies, developing projects, and improving my problem-solving skills.
+I'm Prajwal Badiger, an aspiring AI/ML Engineer passionate about building intelligent applications, developing innovative software solutions, and exploring the potential of machine learning.
 
-🌐 **Explore My Portfolio:** [prajwal-1985.github.io/Portfolio](https://prajwal-1985.github.io/Portfolio/)
+I enjoy transforming ideas into practical projects using modern web technologies and AI-powered tools.
 
----
+✨ Features
 
-## 👨‍💻 About Me
+- Modern, responsive portfolio design
+- Personal introduction and professional profile
+- Technical skills and expertise
+- Project showcase
+- Contact section for professional opportunities
+- Responsive layout for desktop and mobile devices
+- Deployed with Vercel for online accessibility
 
-- 🎓 B.Tech CSE (AI/ML) student at Garden City University
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🐍 Working with Python, Flask, and Machine Learning algorithms
-- 💡 Learning by building real-world projects
-- 🎯 Aspiring to become an AI/ML Engineer
+🛠️ Tech Stack
 
----
+- Frontend: HTML5, CSS3, JavaScript
+- AI & Machine Learning: Python, Machine Learning
+- Deployment: Vercel
+- Version Control: Git and GitHub
 
-## 🚀 Featured Projects
+The technologies listed above describe the portfolio's intended stack; adjust them if your implementation uses additional frameworks or libraries.
 
-### 1. Network Intrusion Detection System
+📂 Project Structure
 
-A Machine Learning-based system designed to identify potentially malicious network activities.
+Portfolio/
+├── index.html       # Main portfolio webpage
+├── README.md        # Project documentation
+└── assets/          # Images, icons, and other assets (if used)
 
-**Technologies:** Python, Machine Learning
+🚀 Getting Started
 
-- Preprocessed network traffic data.
-- Trained Machine Learning classifiers.
-- Evaluated model performance for intrusion detection.
+1. Clone the Repository
 
-### 2. AI FAQ Chatbot
+git clone https://github.com/Prajwal-1985/Portfolio.git
 
-An AI-based FAQ chatbot developed during my CodeAlpha internship to automate responses to user questions.
+2. Navigate to the Project Directory
 
-**Technologies:** Python, Flask
+cd Portfolio
 
-- Developed a chatbot to process user questions.
-- Implemented backend logic to provide relevant answers.
-- Focused on automated question-answering functionality.
+3. Run Locally
 
-### 3. Language Translator
+Open "index.html" in your browser, or use the Live Server extension in Visual Studio Code.
 
-A web application that translates text between multiple languages using the Google Translate API.
+🌍 Deployment
 
-**Technologies:** Python, Flask, Google Translate API
+This portfolio is deployed using Vercel and connected to GitHub for version control.
 
-- Developed a language translation web application.
-- Integrated translation functionality for multiple languages.
-- Implemented backend request handling and user interaction.
+Live URL: https://portfolio-sooty-kappa-56.vercel.app
 
----
+Updates pushed to the configured production branch can trigger automatic redeployment.
 
-## 🛠️ Technical Skills
+📬 Connect With Me
 
-| Category | Skills |
-|---|---|
-| Programming Languages | Python, JavaScript, Java, C, C++, SQL |
-| Web Technologies | HTML5, CSS3, Flask, REST APIs |
-| AI & Machine Learning | Machine Learning, Deep Learning, NLP |
-| Databases | MySQL, DBMS |
-| Tools | Git, GitHub, MATLAB |
+- GitHub: "Prajwal-1985" (https://github.com/Prajwal-1985)
+- Portfolio: "Visit Website" (https://portfolio-sooty-kappa-56.vercel.app)
 
----
+📄 License
 
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering (AI/ML)**  
-Garden City University  
-October 2023 – May 2027
-
-**CGPA:** 8.1/10
+This project is intended to showcase my personal portfolio and development work. Add a license file if you wish to specify permissions for reuse and distribution.
 
 ---
 
-## 📜 Certifications
+⭐ If you like my work, feel free to explore my repositories and connect with me!
 
-- Introduction to Neural Networks and PyTorch — IBM (Coursera)
-- Neural Networks and Deep Learning — DeepLearning.AI
-- Introduction to Data Science — Cisco
-- AI Capstone Project with Deep Learning — IBM
-- Java Programming Fundamentals — Infosys Springboard
-
----
-
-## 📫 Connect With Me
-
-- 🌐 **Portfolio:** [Visit My Website](https://prajwal-1985.github.io/Portfolio/)
-- 💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/)
-- 🐙 **GitHub:** [Prajwal-1985](https://github.com/Prajwal-1985)
-- 📧 **Email:** [prajwalbadiger1985@gmail.com](mailto:prajwalbadiger1985@gmail.com)
-
----
-
-⭐ *Thanks for visiting my portfolio! I'm continuously learning, building, and exploring new possibilities in AI and Machine Learning.*
-
+Built with passion for AI, Machine Learning, and Software Development.
